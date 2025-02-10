@@ -1,5 +1,7 @@
 ---
-tittle: Mi tercera publicación en el blog
+layout: ../../layouts/MarkdownPostLayout.astro
+
+title: Mi tercera publicación en el blog
 author: Alumno de Astro
 description: "La guía de Astro es muy clara y sencilla de entender"
 image: 
